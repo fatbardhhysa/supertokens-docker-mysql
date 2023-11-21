@@ -79,6 +79,9 @@ serviceAccount:
   # If not set and create is true, a name is generated using the fullname template
   name: ""
 
+service:
+  port: 80
+
 podAnnotations: {}
 
 podSecurityContext: {}
