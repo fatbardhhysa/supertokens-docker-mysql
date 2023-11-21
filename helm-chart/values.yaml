@@ -80,7 +80,7 @@ serviceAccount:
   name: ""
 
 service:
-  port: 3567
+  port: 80
 
 podAnnotations: {}
 
