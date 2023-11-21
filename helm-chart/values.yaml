@@ -107,7 +107,7 @@ resources: {}
 
 autoscaling:
   # -- enable autoscaling of replicas
-  enabled: true
+  enabled: false
   # -- minimal replica count when autoscaling
   minReplicas: 1
   # -- maximum replica count when autoscaling
