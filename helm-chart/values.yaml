@@ -21,12 +21,12 @@ database:
   # -- database port
   port: 3306
   # -- database host address
-  host: 10.100.100.2
+  host: "db-prod-de.mysql.database.azure.com"
   # -- database username
   user: supertokens
   # TODO: Move this into a secret
   # -- database user password
-  password: "supertokens123!@"
+  password: "A5k7ZPW9XLtveCrYTh4aEd"
 
   connectionPoolSize: 5
 
